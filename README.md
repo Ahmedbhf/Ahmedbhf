@@ -13,8 +13,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedbhf)]
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedbhf)](https://git.io/streak-stats)<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedbhf&icon=0&color=0)](https://visitcount.itsvg.in)
